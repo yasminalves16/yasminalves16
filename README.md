@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**YasminAlves16/YasminAlves16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👧🏾  Oii, sou a Yasmin 
 
-Here are some ideas to get you started:
+🖋️ ReactJS | JavaScript | CSS | HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 GitHub, Git, Figma, Visual  Studio Code
+
+🧠 Entusiasta de tecnologia , me desenvolvo por meio dos estudos de lógica da programação e estudo aplicado em linguagens de programação.
+
+🎓 Cursando Analise e Desenvolvimento de Sistemas 
+
+💻 Faço curso Front-End na Kenzie Academy, onde também atuo como Peer Coach (alguém habilitado para auxiliar e orientar no desenvolvimento de outras pessoas). Onde eu obtive muita experiência com projetos em equipe e individuais 
+
+👩🏾‍🎓 Entre minhas softskills destacam-se: comunicação, foco em resultados, criatividade, empatia, paixão e prazer no trabalho em equipe.
+Sou uma pessoa determinada, empenhada, comprometida, fácil aprendizado e de rápida adaptação!
