@@ -12,11 +12,28 @@
 ### 👩🏾‍🎓 Entre minhas softskills destacam-se: comunicação, foco em resultados, humildade, senso de justiça, assiduidade e facilidade no trabalho em equipe.
 ### Sou uma pessoa determinada, empenhada, comprometida, fácil aprendizado e de rápida adaptação, entusiasta para aprender e gosto muito de ouvir criticas construtivas.
 
+<div align="center">
+<a href="#">
+  
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=yasminalves16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminalves16&layout=compact&langs_count=6&theme=dark"/>
+
+</a>
+</div>
+
 
 
 ### Contatos:
 
-### <a href="https://www.linkedin.com/in/devyasmin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div style="display: inline_block">
+  
+<a href="mailto:yasmin.alves@outlook.com.br" style="text-decoration:none;"><img align="center"   height="30" width="40" src="https://raw.githubusercontent.com/lucasmenchon/aspnet-site/d2a590b5f2b4c0d05190e3e5f6e1a2c1e4359613/wwwroot/images/outlook-original.svg"></a>
+<a href="https://www.linkedin.com/in/devyasmin/" style="text-decoration:none;" ><img align="center"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://wa.me/5512983191908" style="text-decoration:none;"><img align="center"   height="30" width="40" src="https://raw.githubusercontent.com/lucasmenchon/aspnet-site/d2a590b5f2b4c0d05190e3e5f6e1a2c1e4359613/wwwroot/images/whatsapp-original.svg"></a>
+  
+</div>
 
-### https://wa.me/552196312XXXX - whatsapp
+
+
+![](https://komarev.com/ghpvc/?username=yasminalves16)
 
