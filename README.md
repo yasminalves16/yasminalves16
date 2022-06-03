@@ -10,13 +10,13 @@
 
 
 ### 👩🏾‍🎓 Entre minhas softskills destacam-se: comunicação, foco em resultados, humildade, senso de justiça, assiduidade e facilidade no trabalho em equipe.
-### Sou uma pessoa determinada, empenhada, comprometida, fácil aprendizado e de rápida adaptação, entusiasta para aprender e gosto muito de ouvir criticas construtivas.
+### Sou uma pessoa determinada, empenhada, comprometida, fácil aprendizado e de rápida adaptação, entusiasta para aprender e sei lidar com criticas construtivas.
 
 <div align="center">
 <a href="#">
   
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=yasminalves16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminalves16&layout=compact&langs_count=6&theme=dark"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=yasminalves16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminalves16&layout=compact&langs_count=6&theme=dark"/>
 
 </a>
 </div>
