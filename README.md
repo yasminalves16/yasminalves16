@@ -4,7 +4,7 @@
 
 ### 💻 GitHub, Git, Figma, Visual  Studio Code
 
-### 🧠 Atualmente me aventurando em React Native e TypeScript
+### 🧠 Atualmente me aventurando em Nodejs e e TypeScript
 
 ### 💻 Fiz curso Front-End na Kenzie Academy, onde também atuo como Peer Coach (alguém habilitado para auxiliar e orientar no desenvolvimento de outras pessoas). Onde eu obtive muita experiência com projetos em equipe e individuais.  Ainda falando sobre a Kenzie, fiz alguns projetos em equipe onde tive muita vivência em metodologia scrum, inclusive atuei como scrum master nos projetos 
 
