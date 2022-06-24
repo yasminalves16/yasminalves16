@@ -13,7 +13,7 @@
 ### Sou uma pessoa determinada, empenhada, comprometida, fácil aprendizado e de rápida adaptação, entusiasta para aprender e sei lidar com criticas construtivas.
 
 ### 💻 Veja aqui o meu portifolio
-https://portifolio-a3a2dcvuz-yasminalves16.vercel.app/
+https://portifolio-yasminalves16.vercel.app/
 
 <div align="center">
 <a href="#">
