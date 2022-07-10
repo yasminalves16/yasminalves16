@@ -57,9 +57,9 @@
 
 <div style="display: inline_block">
   
-<a href="mailto:yasmin.alves@outlook.com.br" style="text-decoration:none;"><img align="center"   height="30" width="40" src="https://raw.githubusercontent.com/lucasmenchon/aspnet-site/d2a590b5f2b4c0d05190e3e5f6e1a2c1e4359613/wwwroot/images/outlook-original.svg"></a>
-<a href="https://www.linkedin.com/in/devyasmin/" style="text-decoration:none;" ><img align="center"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
-<a href="https://wa.me/5512983191908" style="text-decoration:none;"><img align="center"   height="30" width="40" src="https://raw.githubusercontent.com/lucasmenchon/aspnet-site/d2a590b5f2b4c0d05190e3e5f6e1a2c1e4359613/wwwroot/images/whatsapp-original.svg"></a>
+<a href="mailto:yasmin.alves@outlook.com.br" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0M6ggYz32UW39FkUpTPAqSnNOeCR9YDNZ5bN6iog1RE8sLUbsuzt8O-d02CowQ3pS3Q&usqp=CAU"></a>
+<a href="https://www.linkedin.com/in/devyasmin/" target="_blank" style="text-decoration:none;" ><img align="center"   height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://wa.me/5512983191908" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://logopng.com.br/logos/whatsapp-33.png"></a>
   
 </div>
 
