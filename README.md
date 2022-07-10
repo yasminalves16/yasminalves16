@@ -33,7 +33,9 @@
   <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminalves16&layout=compact&hide_border=true&title_color=F73BE0&text_color=F73BE0&bg_color=0d1117" />
   </p>
   </div>
-
+  
+  
+  ![Snake animation](https://github.com/yasminalves16/yasminalves16/blob/output/github-contribution-grid-snake.svg)
 
 
 ### Contatos:
