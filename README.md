@@ -17,20 +17,12 @@
 
 ## 💻 Veja aqui o meu portifolio: https://portifolio-yasminalves16.vercel.app/
 
-<div align="center">
-<a href="#">
-  
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=yasminalves16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminalves16&layout=compact&langs_count=6&theme=dark"/>
-
-</a>
-</div>
 
  <div>
   <p align=center>⚙️ &nbsp;GitHub Analytics</p>
   <p align="center">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=yasminalves16&show_icons=true&count_private=true&hide_border=true&title_color=F73BE0&icon_color=F73BE0&text_color=c9d1d9&bg_color=0d1117" alt="Yasmin Alves github stats" /> 
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminalves16&layout=compact&hide_border=true&title_color=F73BE0&text_color=F73BE0&bg_color=0d1117" />
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=yasminalves16&show_icons=true&count_private=true&hide_border=true&title_color=F73BE0&icon_color=F73BE0&text_color=c9d1d9&bg_color=0d1117" alt="Yasmin Alves github stats" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminalves16&layout=compact&hide_border=true&title_color=F73BE0&text_color=F73BE0&bg_color=0d1117" />
   </p>
   </div>
   
