@@ -5,7 +5,7 @@
     
      🔥 Desenvolvedora Web Full-Stack 
   
-     📚 Faço curso Full Stack na Kenzie Academy Brasil, onde também atuo como Peer Coach (alguém habilitado para auxiliar e orientar no desenvolvimento de novos devs). Ainda falando sobre a Kenzie, também atuei em alguns projetos individuais e em equipe, onde obtive muita vivência em metodologia scrum, inclusive atuando como scrum master e product owner
+     📚 Estou cursando faculdade de Ciência da Computação. E sou formada no curso Full Stack na Kenzie Academy Brasil, onde atuei como monitora ensinando novos devs. Fiz alguns projetos individuais e em equipe, onde obtive muita vivência em metodologia scrum, inclusive atuando como scrum master e product owner
 
      🧠 Atualmente estudando inglês 
       
