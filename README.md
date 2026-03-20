@@ -71,11 +71,13 @@ React • TypeScript • JavaScript • APIs • Scrum
   </a>
 </div>
 <br>
-<br><br>
+
+### 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yasminalves16/yasminalves16/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/yasminalves16/yasminalves16/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+<br><br>
 <br>
 <br><br>
