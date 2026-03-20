@@ -2,7 +2,7 @@
   Oii, eu sou a Yasmin <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVwNnRjMnU3bmllaXBubm4weDgzMTBoYWFldjAxODU3bTQxNzBlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rJmlTGOXGVnV4K4Vg7/giphy.gif" width="30"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h2>
 
-<img align="right" src="./assets/yas.avatar.gif" width="30%" />
+<img align="right" src="./assets/yas.avatar.gif" width="25%" />
 
 <p>
 Criando interfaces modernas com foco em experiência e simplicidade   
