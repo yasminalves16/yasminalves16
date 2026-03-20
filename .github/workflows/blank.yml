@@ -16,7 +16,7 @@ jobs:
         with:
           github_user_name: yasminalves16
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=E6A4B4&color_dots=#f8d7da,#f4b6c2,#eea5b7,#E6A4B4,#d98fa6
+            dist/github-contribution-grid-snake.svg?color_snake=E6A4B4&color_dots=%23f8d7da,%23f4b6c2,%23eea5b7,%23E6A4B4,%23d98fa6
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
